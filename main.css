@@ -4,3 +4,36 @@
   background-size: cover;
   background-position: left;
 }
+
+.illustr1{
+  background-image: url(./img/illustrate1.png);
+  background-repeat: no-repeat;
+  background-size:contain;
+  height: 448px;
+}
+
+.illustr2{
+  background-image: url(./img/illustrate2.png);
+  background-repeat: no-repeat;
+  background-size:contain;
+  height: 448px;
+}
+
+.illustr3{
+  background-image: url(./img/illustrate3.png);
+  background-repeat: no-repeat;
+  background-size:contain;
+  height: 448px;
+}
+
+.illustr4{
+  background-image: url(./img/illustrate4.png);
+  background-repeat: no-repeat;
+  background-size:contain;
+  height: 448px;
+}
+
+.listround{
+  width: 10px;
+  height: 10px;
+}
