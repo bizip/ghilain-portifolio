@@ -1,4 +1,6 @@
-* {
-  margin: 0;
-  padding: 0;
+.back {
+  background-image: url(./img/bg-img.PNG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
 }
