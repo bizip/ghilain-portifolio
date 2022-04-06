@@ -33,6 +33,13 @@
   height: 448px;
 }
 
+.about{
+  background-image: url(./img/aboutback.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
 .listround{
   width: 10px;
   height: 10px;
