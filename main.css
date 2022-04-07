@@ -5,42 +5,42 @@
   background-position: left;
 }
 
-.illustr1{
+.illustr1 {
   background-image: url(./img/illustrate1.png);
   background-repeat: no-repeat;
-  background-size:contain;
+  background-size: contain;
   height: 448px;
 }
 
-.illustr2{
+.illustr2 {
   background-image: url(./img/illustrate2.png);
   background-repeat: no-repeat;
-  background-size:contain;
+  background-size: contain;
   height: 448px;
 }
 
-.illustr3{
+.illustr3 {
   background-image: url(./img/illustrate3.png);
   background-repeat: no-repeat;
-  background-size:contain;
+  background-size: contain;
   height: 448px;
 }
 
-.illustr4{
+.illustr4 {
   background-image: url(./img/illustrate4.png);
   background-repeat: no-repeat;
-  background-size:contain;
+  background-size: contain;
   height: 448px;
 }
 
-.about{
+.about {
   background-image: url(./img/aboutback.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
-.listround{
+.listround {
   width: 10px;
   height: 10px;
 }
